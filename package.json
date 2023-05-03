@@ -1,0 +1,11 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "description": "Some algorithms coded in JS.",
+  "author": "Vladislav Maksimov",
+  "license": "MIT",
+  "scripts": {
+    "start-hours": "node hours.js",
+    "start-path": "node path.js"
+  }
+}
